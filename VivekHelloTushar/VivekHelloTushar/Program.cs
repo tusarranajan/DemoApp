@@ -10,7 +10,7 @@ namespace VivekHelloTushar
     {
         static void Main(string[] args)
         {
-            Console.Write("today 2019");
+            Console.Write("today 2019- dd-mm--hh--yyyy");
         }
     }
 }
