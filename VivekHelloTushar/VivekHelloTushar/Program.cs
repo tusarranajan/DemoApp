@@ -10,8 +10,7 @@ namespace VivekHelloTushar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!");
-            Console.WriteLine("Hello World123!!");
+            Console.Write("today 2019");
         }
     }
 }
